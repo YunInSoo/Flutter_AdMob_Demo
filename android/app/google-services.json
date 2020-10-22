@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "750238479761",
+    "firebase_url": "https://vsproject-8e943.firebaseio.com",
+    "project_id": "vsproject-8e943",
+    "storage_bucket": "vsproject-8e943.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750238479761:android:fcd53184ef9286248a1630",
+        "android_client_info": {
+          "package_name": "com.example.AdMob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750238479761-p34993ogme2nfrcr4a6e66hhcif7t1k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4NklN0oMYk3ZKs5gOShQb0FKyvR-puZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750238479761-p34993ogme2nfrcr4a6e66hhcif7t1k3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "750238479761-k638huoc77tk05k5uknqkr4m3lk365pj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yunis.vs"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750238479761:android:b71614617f2c8d328a1630",
+        "android_client_info": {
+          "package_name": "com.example.testTwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750238479761-p34993ogme2nfrcr4a6e66hhcif7t1k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4NklN0oMYk3ZKs5gOShQb0FKyvR-puZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750238479761-p34993ogme2nfrcr4a6e66hhcif7t1k3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "750238479761-k638huoc77tk05k5uknqkr4m3lk365pj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yunis.vs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
